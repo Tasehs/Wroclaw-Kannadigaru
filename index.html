@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Kannadigas in Wrocław, Poland</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      background: #f5f7fa;
+      color: #222;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+
+    header {
+      background: #004e7c;
+      color: white;
+      padding: 2.5em 1em;
+      text-align: center;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    header h1 {
+      font-size: 2.5rem;
+      margin: 0 0 0.5rem;
+    }
+
+    header p {
+      font-size: 1.2rem;
+      margin: 0;
+      opacity: 0.9;
+    }
+
+    main {
+      padding: 2em 1em;
+      max-width: 900px;
+      margin: auto;
+    }
+
+    section {
+      background: white;
+      border-radius: 12px;
+      padding: 1.5em 2em;
+      margin-bottom: 2em;
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.05);
+      transition: transform 0.2s ease;
+    }
+
+    section:hover {
+      transform: translateY(-2px);
+    }
+
+    h2 {
+      color: #004e7c;
+      font-size: 1.4rem;
+      margin-top: 0;
+      border-left: 4px solid #0079bf;
+      padding-left: 0.6em;
+    }
+
+    ul {
+      padding-left: 1.2em;
+      list-style: disc;
+    }
+
+    li {
+      margin-bottom: 0.6em;
+    }
+
+    a {
+      color: #0079bf;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1.2em;
+      font-size: 0.95em;
+      background: #e8edf2;
+      color: #444;
+      margin-top: 2em;
+      border-top: 1px solid #ccc;
+    }
+
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 1.8rem;
+      }
+
+      header p {
+        font-size: 1rem;
+      }
+
+      section {
+        padding: 1.2em 1em;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Kannadigas in Wrocław 🇵🇱</h1>
+    <p>A practical relocation guide for individuals and families from Karnataka</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>👋 Welcome</h2>
+      <p>This page is for Kannada-speaking people planning to move or recently relocated to Wrocław, Poland. Whether you're coming alone for work or moving with your family, we’ve compiled essential info to make your transition easier.</p>
+    </section>
+
+    <section>
+      <h2>📦 Relocating Alone</h2>
+      <ul>
+        <li><strong>Visa & Work Permit:</strong> Usually arranged by employer (national visa D or EU Blue Card)</li>
+        <li><strong>Temporary Stay:</strong> Stay in hotels or short-term Airbnb until permanent flat is found</li>
+        <li><strong>Housing:</strong> Find flats on <a href="https://www.olx.pl" target="_blank">OLX</a> or <a href="https://www.otodom.pl" target="_blank">Otodom</a></li>
+        <li><strong>PESEL Number:</strong> Not mandatory, but useful for tax and healthcare</li>
+        <li><strong>Health Insurance:</strong> Public (ZUS) or private providers like LuxMed / Medicover</li>
+        <li><strong>Public Transport:</strong> Monthly pass ~110 PLN (<a href="https://jakdojade.pl" target="_blank">JakDojade</a>)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>👨‍👩‍👧 Relocating with Family</h2>
+      <ul>
+        <li><strong>Dependent Visas:</strong> Apply for spouse and children under family reunification</li>
+        <li><strong>Kindergartens & Schools:</strong> Public (free, Polish-speaking) or private international schools (~1500–3000 PLN/month)</li>
+        <li><strong>Language:</strong> Learn basic Polish; weekend classes are helpful</li>
+        <li><strong>Family Health Insurance:</strong> Include dependents in your plan or buy private policies</li>
+        <li><strong>Local Community:</strong> Join Kannada/Indian WhatsApp, Telegram, or Facebook groups</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>📝 Legal Formalities</h2>
+      <ul>
+        <li>Register address at <strong>Urząd Miasta</strong> (City Office) within 30 days</li>
+        <li>Apply for <strong>Karta Pobytu</strong> (residence card) if staying more than 3 months</li>
+        <li>Tax registration—check with HR or consult an accountant</li>
+        <li>Open a bank account with your passport + address proof</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>📍 Helpful Links</h2>
+      <ul>
+        <li><a href="https://gov.pl" target="_blank">gov.pl</a> – Official Polish government portal</li>
+        <li><a href="https://um.wroc.pl" target="_blank">Wrocław City Office</a></li>
+        <li><a href="https://jakdojade.pl/wroclaw" target="_blank">JakDojade.pl</a> – Wrocław public transport</li>
+        <li><a href="https://otodom.pl" target="_blank">Otodom</a> – Housing search</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>🤝 Contact & Community</h2>
+      <p>If you'd like to join the Wrocław Kannada WhatsApp group or contribute updates to this guide, email us at <a href="mailto:kannada.wroclaw@gmail.com">kannada.wroclaw@gmail.com</a></p>
+    </section>
+  </main>
+
+  <footer>
+    © 2025 Kannadigas in Wrocław. Created with ❤️ to help fellow Kannadigas settle smoothly.
+  </footer>
+</body>
+</html>
